@@ -10,6 +10,10 @@ This project is a program that determines how many "degrees of separation" apart
 
 This project is a program that allows a user to play a game of tic-tac-toe against an AI. The AI uses the minimax algorithm to determine the best move to make. The AI is unbeatable.
 
+## Project 1: Knights
+
+This project is a program that takes the knowledge as statements from characters A through C. Each of the characters could be an Knight or a Knave. The program determines which characters are Knights and which are Knaves. The program uses a logic-based approach to determine the characters' identities.
+
 ### Optimizations
 
 After implementin the minimax algorithm, I decided to implement some optimizations to the AI. The first improvement I made was to implement alpha-beta pruning. This optimization reduced the number of nodes that the AI had to search through by a significant amount.
